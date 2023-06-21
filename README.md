@@ -1,7 +1,7 @@
 # Mahider Reddy Patil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahider-reddy-patil)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/mahiderreddypatil)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/mahider-reddy-patil)
 
 Experienced Data Engineer | AWS Certified Solutions Architect | Data Science Enthusiast
 
@@ -67,7 +67,7 @@ Here are some notable projects I have worked on:
 I am excited to collaborate and contribute to meaningful projects. Feel free to reach out to me on LinkedIn or explore my GitHub repositories to see more of my work. I look forward to connecting with fellow data enthusiasts, developers, and professionals in the field!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahider-reddy-patil)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/mahiderreddypatil)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/mahider-reddy-patil)
 
 <!--
 **mahider-reddy-patil/Mahider-Reddy-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

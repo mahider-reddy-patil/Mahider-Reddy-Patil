@@ -29,22 +29,17 @@ Welcome to my GitHub portfolio! I am Mahider Reddy Patil, a dedicated data profe
 
 ## Work Experience
 
-**Research Assistant** - University of St. Thomas, St. Paul _(Aug 2022 - Present)_
-- Conducted advanced statistical analysis using SQL on large datasets, resulting in improved administrative operations and informed decision-making.
-- Collaborated with faculty to develop data analysis strategies and delivered clear reports and presentations to senior management, effectively communicating findings and insights.
-- Integrated cross-functional collaboration, implemented data governance policies, and created interactive dashboards to foster a data-centric culture and enable informed decision-making.
+**Graduate Assistant** - University of St. Thomas, St. Paul _(August 2022 - Present)_
+-	Utilized data analysis techniques to assess and improve the efficiency of academic projects, resulting in streamlined processes and increased productivity.
+-	Applied data engineering principles to manipulate and transform large datasets, ensuring data integrity and accuracy for research purposes.
+-	Collaborated with faculty members to design and implement data-driven solutions, leveraging programming languages and tools such as Python, SQL.
 
-**Business Intelligence** - Virtusa Pvt Ltd, Hyderabad _(Dec 2019 - Dec 2021)_
-- Optimized report accuracy through thorough analysis of user requirements, resulting in a 15% reduction in error rates.
-- Orchestrated seamless data integration and analysis by creating comprehensive report specification documents and implementing SQL connections across multiple data tables.
-- Validated the reliability and integrity of customer data by implementing robust data quality checks, enhancing data accuracy and user confidence.
-- Leveraged Power BI and SSRS to create visually captivating dashboards and reports, empowering end-users to interpret KPIs and make informed decisions.
-
-**Quality Assurance Engineer** - Covantech Pvt Ltd, Hyderabad _(Jul 2017 - Dec 2019)_
-- Facilitated effective communication and collaboration among team members, resulting in improved team productivity.
-- Developed and evaluated comprehensive test cases based on user requirements, achieving a high level of software functionality validation.
-- Proactively resolved defects by collaborating with developers, leading to efficient issue resolution and reduced software defects.
-- Ensured accurate documentation and timely resolution of reported issues, improving issue resolution turnaround time and customer satisfaction.
+**Data Analyst** - Virtusa Pvt Ltd, Hyderabad _(July 2017 - December 2021)_
+-	Led and managed a cross-functional team of 5 members in successfully building a $2 million data dashboard project. Optimized and automated the ETL process, resulting in a 30% reduction in report generation time.
+-	Served as the subject matter expert in analytics, providing guidance and mentorship to analysts. Facilitated effective collaboration between the IT and business teams to shape the design of the dashboards and select key performance indicators (KPIs).
+-	Collaborated closely with business stakeholders to identify and define key metrics for sales, marketing, and operations. Developed comprehensive Tableau dashboards utilizing SQL, Excel, and data from Oracle and Salesforce.
+-	Presented data insights to the leadership team, delivering clear and focused recommendations based on trend analysis. Enabled data-driven decision-making and alignment of strategies across the organization.
+-	Implemented advanced data analysis techniques, such as predictive modeling and segmentation, to uncover valuable insights and drive actionable recommendations for business growth.
 
 ## Projects
 
